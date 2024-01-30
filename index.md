@@ -24,7 +24,12 @@ Jeu de données des jeux olympiques modernes :
 ![](<iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] (Copy)" aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="432" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>)
 
+Explications : 
+Pour l'harmonisation des données, j'ai effectué une réconciliation des cellules en associant les équipes via Wikidata, en utilisant le pays comme référence, tout en restreignant les jeux uniquement aux Jeux Olympiques d'été de 2016. Cette démarche a permis d'assurer une cohérence dans la représentation des équipes participantes.
+Par la suite, lors de la facettage textuelle, j'ai concentré l'analyse sur les performances des femmes dans le domaine de l'athlétisme. En filtrant les données en fonction du genre,de l'âge et en se limitant à la colonne "Sport" dédiée à l'athlétisme, j'ai pu mettre en lumière les réalisations spécifiques de cette discipline. J'ai affiné la sélection en ne retenant que les médailles d'or, soulignant ainsi les performances des athlètes féminines.
+Pour une visualisation plus détaillée et une communication efficace des résultats, j'ai extrait ces données filtrées dans un fichier CSV, prêt à être utilisé dans divers outils d'analyse. En particulier, nous avons exploité ce fichier pour créer une carte significative via Datawrapper, offrant ainsi une perspective visuelle interactive des performances des athlètes féminines médaillées d'or en athlétisme lors des Jeux Olympiques d'été de 2016.
 
+Pour cette visualisation le choix d'une carte permetlocaliser la nationalité des athlètes permet d'afficher également leur âge et la sous-discipline à laquelle elles ont pris part.
 
 ### Deuxième visualisation
 Analyse
@@ -32,10 +37,23 @@ Analyse
 ![](<div class="flourish-embed flourish-chart" data-src="visualisation/16565200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
 
 ![](<iframe src='https://flo.uri.sh/visualisation/16565200/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16565200/?utm_source=embed&utm_campaign=visualisation/16565200' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>)
+
+Au cours de cette analyse, OpenRefine est utilisé pour affiner les données et concentrer les éléments spécifiques. Initialement, j'ai appliqué des facettes textuelles pour sélectionner les pays clés tels que les États-Unis, la Chine, l'Allemagne, le Royaume-Uni, la Russie et la France. Pour ensuite restreindre l'analyse aux Jeux Olympiques d'été, en précisant les années 2004, 2008, 2012 et 2016. Pour garantir la cohérence des résultats, j'ai également exclu les données de médailles manquantes (N/A) à l'aide d'une facette textuelle.
+
+Par la suite, j'ai utilisé Flourish pour créer un line chart, permettant une visualisation claire de la progression ou de la régression des pays au cours de ces 12 années. Chaque année est représentée, fournissant des informations sur le nombre de médailles remportées par chaque pays. L'analyse du line chart a révélé une baisse de médailles en 2012 pour les États-Unis mais ils demeurent en tête, marquant une nette distinction. En contraste, la France maintient une position moins favorable par rapport aux autres nations, soulignant ainsi les variations dans les performances sportives au fil du temps. Cette approche visuelle a grandement contribué à la compréhension des tendances et des dynamiques des médailles olympiques pour ces pays spécifiques.
+
 ### Troisième visualisation
-Analyse
+Visualisation des médailles remportées par la France de 1896 à 2016 incluant les jeux olympiques d'hiver et d'été. 
+
+![](file:///Users/liouw/Downloads/Visu3Finale.svg)
 
 
+Pour cette visualisation j'ai initié une série d'étapes avec OpenRefine pour assurer la qualité et la pertinence de l'ensemble de données. Tout d'abord, OpenRefine a été utilisé pour éliminer efficacement les valeurs manquantes (N/A), garantissant ainsi une base de données complète. Une fois cette étape accomplie, le fichier a été exporté au format CSV pour une manipulation ultérieure.
+Dans le fichier CSV j'ai  supprimer les lignes qui ne correspondait pas aux athlètes français. Ce fichier CSV, désormais épuré et adapté aux besoins, a été réimporté dans OpenRefine pour la poursuite de l'analyse.
+Au sein d'OpenRefine, mise en place d'une de facette textuelle , se concentrant spécifiquement sur les années qui incluent le type de jeux, à savoir été et hiver. Cette facette textuelle a permis de catégoriser les données en offrant une vision plus approfondie des événements en fonction de leur nature saisonnière.
+Suite à l'affinage de la selection 50 options spécifiques s'affichent. Ces options soigneusement choisies ont été extraites et copiées dans un nouveau fichier CSV, prêt à être utilisé pour des analyses plus ciblées.
+Enfin, afin de structurer encore davantage les  données, j'ai utilisé l'opération SPLIT sur le fichier CSV. Cette opération a été réalisée avec l'intention de diviser les données textuelles en colonnes distinctes, en utilisant l'espace comme délimiteur. Cette étape a contribué à une organisation plus claire et à une meilleure interprétation des informations contenues, facilitant ainsi notre analyse ultérieure.
+J'ai fais le choix d'utiliser RawGraph pour faire ce line chart,pour organiser le graph j'ai utilisé l'année pour X Axis et le nombre de médailles pour Y Axis. Pour les lignes ainsi que pour les couleurs j'ai utilisé le type ( type de jeux : été ou hiver). 
 
 
 ## Conclusion
