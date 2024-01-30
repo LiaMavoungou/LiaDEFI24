@@ -3,8 +3,8 @@
 
 ## Devoir de M2 DEFI - Data Visualisation
 
-## Présentation du sujet
-Projet de datavisualisation des jeux olympiques modernes
+## Projet de datavisualisation des jeux olympiques modernes
+
 ![](https://www.mchampetier.com/sitephp/img_png/oeuvres_XL/2_Allen_Jones_affiche_fev201.jpg)
 
 
@@ -19,6 +19,7 @@ Jeu de données des jeux olympiques modernes :
 ##  Les Visualisations
 
 ### Première visualisation
+![Ow3Ay--femmes-m-daill-es-d-or-en-athl-tisme-rio-2016-copy-](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/65bf978c-762a-4988-8ac7-c7af9772a674)
 ![](https://datawrapper.dwcdn.net/Ow3Ay/1/)
 
 ![](<iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] (Copy)" aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="432" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -31,8 +32,10 @@ Pour une visualisation plus détaillée et une communication efficace des résul
 
 Pour cette visualisation le choix d'une carte permetlocaliser la nationalité des athlètes permet d'afficher également leur âge et la sous-discipline à laquelle elles ont pris part.
 
-### Deuxième visualisation
+### Deuxième visualisation![Ow3Ay--femmes-m-daill-es-d-or-en-athl-tisme-rio-2016-copy-](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/1d0a41f6-932b-4262-aa70-f8f0048efe79)
+
 Analyse
+![2emeVisualisation](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/109fc4db-036d-47bc-84d8-4730b863936e)
 
 ![](<div class="flourish-embed flourish-chart" data-src="visualisation/16565200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
 
@@ -45,7 +48,7 @@ Par la suite, j'ai utilisé Flourish pour créer un line chart, permettant une v
 ### Troisième visualisation
 Visualisation des médailles remportées par la France de 1896 à 2016 incluant les jeux olympiques d'hiver et d'été. 
 
-![](file:///Users/liouw/Downloads/Visu3Finale.svg)
+![Visu3Finale](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/921bbaf8-986e-46f3-af40-2110dc85c9fc)
 
 
 Pour cette visualisation j'ai initié une série d'étapes avec OpenRefine pour assurer la qualité et la pertinence de l'ensemble de données. Tout d'abord, OpenRefine a été utilisé pour éliminer efficacement les valeurs manquantes (N/A), garantissant ainsi une base de données complète. Une fois cette étape accomplie, le fichier a été exporté au format CSV pour une manipulation ultérieure.
@@ -61,3 +64,6 @@ Conclusion générale du devoir...
 
 ---
 
+
+![2emeVisualisation](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/109fc4db-036d-47bc-84d8-4730b863936e)
+![Ow3Ay--femmes-m-daill-es-d-or-en-athl-tisme-rio-2016-copy-](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/65bf978c-762a-4988-8ac7-c7af9772a674)
