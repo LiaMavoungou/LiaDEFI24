@@ -20,15 +20,18 @@ Jeu de données des jeux olympiques modernes :
 
 ### Première visualisation
 ![](https://datawrapper.dwcdn.net/Ow3Ay/1/)
+
 ![](<iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] (Copy)" aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="432" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>)
-
 
 
 
 ### Deuxième visualisation
 Analyse
 
+![](<div class="flourish-embed flourish-chart" data-src="visualisation/16565200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+
+![](<iframe src='https://flo.uri.sh/visualisation/16565200/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16565200/?utm_source=embed&utm_campaign=visualisation/16565200' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>)
 ### Troisième visualisation
 Analyse
 
