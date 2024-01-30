@@ -11,6 +11,7 @@
 ## Jeu de données
 J'ai exploité une base de données exhaustive regroupant les données historiques des Jeux Olympiques modernes, englobant les éditions estivales et hivernales, depuis les Jeux d'Athènes en 1896 jusqu'à ceux de Rio en 2016. La qualité de ce jeu de données s'est avérée particulièrement robuste, nécessitant ainsi peu d'interventions substantielles lors du processus de validation, soulignant ainsi sa bonne organisation préalable.
 Jeu de données des jeux olympiques modernes : 
+
 ![](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ## OpenRefine & WikiData
@@ -32,10 +33,13 @@ Pour une visualisation plus détaillée et une communication efficace des résul
 
 Pour cette visualisation le choix d'une carte permetlocaliser la nationalité des athlètes permet d'afficher également leur âge et la sous-discipline à laquelle elles ont pris part.
 
-### Deuxième visualisation![Ow3Ay--femmes-m-daill-es-d-or-en-athl-tisme-rio-2016-copy-](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/1d0a41f6-932b-4262-aa70-f8f0048efe79)
+### Deuxième visualisation 
 
 Analyse
-![2emeVisualisation](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/109fc4db-036d-47bc-84d8-4730b863936e)
+
+[2emeVisualisation.md](https://github.com/LiaMavoungou/LiaDEFI24/files/14104814/2emeVisualisation.md)
+
+
 
 ![](<div class="flourish-embed flourish-chart" data-src="visualisation/16565200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
 
@@ -65,5 +69,4 @@ Conclusion générale du devoir...
 ---
 
 
-![2emeVisualisation](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/109fc4db-036d-47bc-84d8-4730b863936e)
-![Ow3Ay--femmes-m-daill-es-d-or-en-athl-tisme-rio-2016-copy-](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/65bf978c-762a-4988-8ac7-c7af9772a674)
+
