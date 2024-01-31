@@ -27,7 +27,7 @@ Pour la création des visualisations j'ai utilisé datawrapper pour afficher une
 
 <iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] " aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="436" data-external="1"></iframe>
 
-Explications : 
+
 Pour l'harmonisation des données, j'ai effectué une réconciliation des cellules en associant les équipes via Wikidata, en utilisant le pays comme référence, tout en restreignant les jeux uniquement aux Jeux Olympiques d'été de 2016. Cette démarche a permis d'assurer une cohérence dans la représentation des équipes participantes.
 Par la suite, lors de la facettage textuelle, j'ai concentré l'analyse sur les performances des femmes dans le domaine de l'athlétisme. En filtrant les données en fonction du genre,de l'âge et en se limitant à la colonne "Sport" dédiée à l'athlétisme, j'ai pu mettre en lumière les réalisations spécifiques de cette discipline. J'ai affiné la sélection en ne retenant que les médailles d'or, soulignant ainsi les performances des athlètes féminines.
 Pour une visualisation plus détaillée et une communication efficace des résultats, j'ai extrait ces données filtrées dans un fichier CSV, prêt à être utilisé dans divers outils d'analyse. En particulier, nous avons exploité ce fichier pour créer une carte significative via Datawrapper, offrant ainsi une perspective visuelle interactive des performances des athlètes féminines médaillées d'or en athlétisme lors des Jeux Olympiques d'été de 2016.
@@ -68,7 +68,11 @@ J'ai fais le choix d'utiliser RawGraph pour faire ce line chart,pour organiser l
 Pour cette quatrième visualisation, en amont j'ai crée un fichier excel dans lequel j'ai intégrer les villes organisatrices des jeux olympiques puis j'ai utilisé des données sur wikipédia pour trouver les images des logos et j'ai ajouté les trois derniers jeux après Rio 2016.
 
 ## Conclusion
-Conclusion générale du devoir...
+En synthèse, les analyses méthodiques ont abouti à une harmonisation des données, mettant en lumière les performances  des athlètes féminines en athlétisme aux Jeux Olympiques d'été de 2016. Les visualisations créées avec des outils comme Datawrapper, Flourish, et RawGraph ont offert des perspectives claires et interactives, facilitant la compréhension des variations par pays et des tendances saisonnières sur une période de 12 ans.
+
+L'utilisation d'OpenRefine a contribué à la qualité des données en éliminant les valeurs manquantes, en affinant la sélection, et en structurant le fichier CSV. L'intégration d'informations sur les villes organisatrices et l'ajout d'images ont enrichi la représentation visuelle.
+
+En somme, votre approche analytique a permis une exploration approfondie des performances olympiques, offrant des insights significatifs sur les succès des équipes, les évolutions au fil du temps, et les particularités saisonnières. Ces résultats visuels et structurés constituent un atout précieux pour une compréhension approfondie des dynamiques sportives aux Jeux Olympiques.
 
 ---
 
