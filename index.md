@@ -25,6 +25,15 @@ J'ai décidé de choisir ce jeu de données qui me semblait très complet sur le
 J'ai exploité une base de données exhaustive regroupant les données historiques des Jeux Olympiques modernes, englobant les éditions estivales et hivernales, depuis les Jeux d'Athènes en 1896 jusqu'à ceux de Rio en 2016. La qualité de ce jeu de données s'est avérée particulièrement robuste, nécessitant ainsi peu d'interventions substantielles lors du processus de validation, soulignant ainsi sa bonne organisation préalable.
 Jeu de données des jeux olympiques modernes : 
 
+| ID | Name                    | Sex | Age | Height | Weight | Team               | NOC | Games          | Year | Label               | Count  |
+|----|-------------------------|-----|-----|--------|--------|--------------------|-----|----------------|------|---------------------|--------|
+| 1  | A Dijiang               | M   | 24  | 180    | 80     | China              | CHN | 1992 Summer    | 1992 | 1.00 - 2712.40      | 4,750  |
+| 2  | A Lamusi                | M   | 23  | 170    | 60     | China              | CHN | 2012 Summer    | 2012 | 2712.40 - 5423.80  | 5,160  |
+| 3  | Gunnar Nielsen Aaby     | M   | 24  | NA     | NA     | Denmark            | DEN | 1920 Summer    | 1920 | 5423.80 - 8135.20  | 5,168  |
+| 4  | Edgar Lindenau Aabye    | M   | 34  | NA     | NA     | Denmark/Sweden     | DEN | 1900 Summer    | 1900 | 8135.20 - 
+|
+
+
 ![Lien WeTransfer](https://we.tl/t-RgDpOJDPlu)
 
 
