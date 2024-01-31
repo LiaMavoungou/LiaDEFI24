@@ -3,27 +3,37 @@
 
 ## Devoir de M2 DEFI - Data Visualisation
 
-## Projet de datavisualisation des jeux olympiques modernes
+## SOMMAIRE : 
+1. [Projet de datavisualisation des jeux olympiques modernes](#Projet)
+2. [Jeu de données](#Jeu)
+3. [Les outils](#Outils)
+4. [LES FEMMES MÉDAILLÉES D'OR EN ATHLÉTISME AUX JEUX DE RIO 2016](#Femmes)
+5. [LES NATIONS LEADERS AUX JEUX OLYMPIQUES DE 2004 À 2016](#Nations)
+6. [LES MEDAILLES FRANÇAISES DE 1896 À 2016](#Médailles)
+7. [LES LOGOS DES JEUX OLYMPIQUES DEPUIS 1996 À 2028](#Logos)
+8. [Conclusion](#Conclu)
+
+
+## Projet de datavisualisation des jeux olympiques modernes <a name="Projet"></a>
 
 J'ai décidé de choisir ce jeu de données qui me semblait très complet sur les différents jeux olympiques qui se sont déroulés entre 1896 et 2016. Tous les athlètes participants sont inscrits ainsi que les différents pays. On remarque que suite à des changements politiques certains pays n'existent plus tel que l'Allemagne de l'EST. On remarque également que les débuts des jeux olympiques modernes montre que les équipes étaient différentes ce n'était pas des pays. Un même pays pouvait avoir plusieurs équipes pour une même discipline. Au fil du temps, les équipes se sont unifiées pour devenir des équipes nationales comme les jeux actuels. Grâce à ce jeu de données nous avons pu étudier quels étaient les athlètes ayant remportés telles médailles, les nations qui se distinguaient le mieux lors des jeux, les logos des villes organisatrices. 
 
 ![](https://www.mchampetier.com/sitephp/img_png/oeuvres_XL/2_Allen_Jones_affiche_fev201.jpg)
 
 
-## Jeu de données
+## Jeu de données <a name="Jeu"></a>
 J'ai exploité une base de données exhaustive regroupant les données historiques des Jeux Olympiques modernes, englobant les éditions estivales et hivernales, depuis les Jeux d'Athènes en 1896 jusqu'à ceux de Rio en 2016. La qualité de ce jeu de données s'est avérée particulièrement robuste, nécessitant ainsi peu d'interventions substantielles lors du processus de validation, soulignant ainsi sa bonne organisation préalable.
 Jeu de données des jeux olympiques modernes : 
 
 ![](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
-## Les outils
+## Les outils <a name="Outils"></a>
 
 Pour ce travail, j'ai utilisé OpenRefine pour nettoyer et filtrer mes données. Pour une visualtion j'ai crée un excel. 
 Pour la création des visualisations j'ai utilisé datawrapper pour afficher une map, j'ai utilisé flourish pour effectuer un line chart dynamique et une cards pour afficher des logos. Enfin pour une dernière visualisation j'ai utilisé rawgraph pour faire un linechart qui lui n'est pas dynamique. 
 
-##  Les Visualisations
 
-### LES FEMMES MÉDAILLÉES D'OR EN ATHLÉTISME AUX JEUX DE RIO 2016 
+### LES FEMMES MÉDAILLÉES D'OR EN ATHLÉTISME AUX JEUX DE RIO 2016 <a name="Femmes"></a>
 
 <iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] " aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="436" data-external="1"></iframe>
 
@@ -34,7 +44,7 @@ Pour une visualisation plus détaillée et une communication efficace des résul
 
 Pour cette visualisation le choix d'une carte permetlocaliser la nationalité des athlètes permet d'afficher également leur âge et la sous-discipline à laquelle elles ont pris part.
 
-### LES NATIONS LEADERS AUX JEUX OLYMPIQUES DE 2004 À 2016
+### LES NATIONS LEADERS AUX JEUX OLYMPIQUES DE 2004 À 2016  <a name="Nations"></a>
 
 <iframe src='https://flo.uri.sh/visualisation/16565200/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 <div style='width:100%!;margin-top:4px!important;text-align:right!important;'>
@@ -44,7 +54,7 @@ Au cours de cette analyse, OpenRefine est utilisé pour affiner les données et 
 
 Par la suite, j'ai utilisé Flourish pour créer un line chart, permettant une visualisation claire de la progression ou de la régression des pays au cours de ces 12 années. Chaque année est représentée, fournissant des informations sur le nombre de médailles remportées par chaque pays. L'analyse du line chart a révélé une baisse de médailles en 2012 pour les États-Unis mais ils demeurent en tête, marquant une nette distinction. En contraste, la France maintient une position moins favorable par rapport aux autres nations, soulignant ainsi les variations dans les performances sportives au fil du temps. Cette approche visuelle a grandement contribué à la compréhension des tendances et des dynamiques des médailles olympiques pour ces pays spécifiques.
 
-### LES MEDAILLES FRANÇAISES DE 1896 À 2016 :
+### LES MEDAILLES FRANÇAISES DE 1896 À 2016 <a name="Medailles"></a>
 
 Visualisation des médailles remportées par la France de 1896 à 2016 incluant les jeux olympiques d'hiver et d'été. 
 
@@ -59,7 +69,7 @@ Enfin, afin de structurer encore davantage les  données, j'ai utilisé l'opéra
 J'ai fais le choix d'utiliser RawGraph pour faire ce line chart,pour organiser le graph j'ai utilisé l'année pour X Axis et le nombre de médailles pour Y Axis. Pour les lignes ainsi que pour les couleurs j'ai utilisé le type ( type de jeux : été ou hiver). 
 
 
-### LES LOGOS DES JEUX OLYMPIQUES DEPUIS 1996 À 2028 :
+### LES LOGOS DES JEUX OLYMPIQUES DEPUIS 1996 À 2028 <a name="Logo"></a>
 
 <iframe src='https://flo.uri.sh/visualisation/16640261/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 <div style='width:100%!;margin-top:4px!important;text-align:right!important;'>
@@ -67,7 +77,7 @@ J'ai fais le choix d'utiliser RawGraph pour faire ce line chart,pour organiser l
 
 Pour cette quatrième visualisation, en amont j'ai crée un fichier excel dans lequel j'ai intégrer les villes organisatrices des jeux olympiques puis j'ai utilisé des données sur wikipédia pour trouver les images des logos et j'ai ajouté les trois derniers jeux après Rio 2016.
 
-## Conclusion
+## Conclusion <a name="Conclu"></a>
 En synthèse, les analyses méthodiques ont abouti à une harmonisation des données, mettant en lumière les performances  des athlètes féminines en athlétisme aux Jeux Olympiques d'été de 2016. Les visualisations créées avec des outils comme Datawrapper, Flourish, et RawGraph ont offert des perspectives claires et interactives, facilitant la compréhension des variations par pays et des tendances saisonnières sur une période de 12 ans.
 
 L'utilisation d'OpenRefine a contribué à la qualité des données en éliminant les valeurs manquantes, en affinant la sélection, et en structurant le fichier CSV. L'intégration d'informations sur les villes organisatrices et l'ajout d'images ont enrichi la représentation visuelle.
