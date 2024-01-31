@@ -20,11 +20,7 @@ Jeu de données des jeux olympiques modernes :
 ##  Les Visualisations
 
 ### Première visualisation
-![Ow3Ay--femmes-m-daill-es-d-or-en-athl-tisme-rio-2016-copy-](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/65bf978c-762a-4988-8ac7-c7af9772a674)
-![](https://datawrapper.dwcdn.net/Ow3Ay/1/)
-
-![](<iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] (Copy)" aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="432" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>)
+<iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] " aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="436" data-external="1"></iframe>
 
 Explications : 
 Pour l'harmonisation des données, j'ai effectué une réconciliation des cellules en associant les équipes via Wikidata, en utilisant le pays comme référence, tout en restreignant les jeux uniquement aux Jeux Olympiques d'été de 2016. Cette démarche a permis d'assurer une cohérence dans la représentation des équipes participantes.
@@ -38,12 +34,6 @@ Pour cette visualisation le choix d'une carte permetlocaliser la nationalité de
 <iframe src='https://flo.uri.sh/visualisation/16565200/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 <div style='width:100%!;margin-top:4px!important;text-align:right!important;'>
 <a class='flourish-credit' href='https://public.flourish.studio/visualisation/16565200/?utm_source=embed&utm_campaign=visualisation/16565200' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
-[2emeVisualisation.md](https://github.com/LiaMavoungou/LiaDEFI24/files/14104814/2emeVisualisation.md)
-
-
-
-
 
 Au cours de cette analyse, OpenRefine est utilisé pour affiner les données et concentrer les éléments spécifiques. Initialement, j'ai appliqué des facettes textuelles pour sélectionner les pays clés tels que les États-Unis, la Chine, l'Allemagne, le Royaume-Uni, la Russie et la France. Pour ensuite restreindre l'analyse aux Jeux Olympiques d'été, en précisant les années 2004, 2008, 2012 et 2016. Pour garantir la cohérence des résultats, j'ai également exclu les données de médailles manquantes (N/A) à l'aide d'une facette textuelle.
 
