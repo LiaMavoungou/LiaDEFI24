@@ -1,0 +1,59 @@
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Medal",
+          "expression": "value",
+          "columnName": "Medal",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NA",
+                "l": "NA"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "NOC",
+          "expression": "value",
+          "columnName": "NOC",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "FRA",
+                "l": "FRA"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOC",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q6256",
+        "name": "country"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column NOC to type Q6256"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOC",
+    "similarValue": "Russia",
+    "judgment": "matched",
+    "match": {
+      "id": "Q159",
+      "name": "Russia",
+      "types": [
+        "Q3624078",
+        "Q859563",
+        "Q6256",
+        "Q1323642",
+        "Q43702"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Russia (Q159) for cells containing \"Russia\" in column NOC"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOC",
+    "similarValue": "France",
+    "judgment": "matched",
+    "match": {
+      "id": "Q142",
+      "name": "France",
+      "types": [
+        "Q3624078",
+        "Q7270",
+        "Q6256",
+        "Q20181813",
+        "Q51576574",
+        "Q113489728"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item France (Q142) for cells containing \"France\" in column NOC"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOC",
+    "similarValue": "United Kingdom",
+    "judgment": "matched",
+    "match": {
+      "id": "Q145",
+      "name": "United Kingdom",
+      "types": [
+        "Q3624078",
+        "Q6256",
+        "Q20181813",
+        "Q1250464",
+        "Q202686",
+        "Q112099",
+        "Q113489728"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item United Kingdom (Q145) for cells containing \"United Kingdom\" in column NOC"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOC",
+    "similarValue": "Germany",
+    "judgment": "matched",
+    "match": {
+      "id": "Q183",
+      "name": "Germany",
+      "types": [
+        "Q3624078",
+        "Q6256",
+        "Q619610",
+        "Q4209223",
+        "Q63791824",
+        "Q113489728"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Germany (Q183) for cells containing \"Germany\" in column NOC"
+  }
+]

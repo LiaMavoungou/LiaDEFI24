@@ -1,0 +1,25 @@
+ID	Name	Sex	Age	Height	Weight	Team	NOC	Games	Year	Season	City	Sport	Event	Medal
+1682	Morolake Akinosun	F	22	163	61	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 100 metres relay	Gold
+6204	Almaz Ayana	F	24	166	47	Ethiopia	Ethiopia	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's 10,000 metres	Gold
+18653	Michelle Carter	F	30	176	136	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's Shot Put	Gold
+20525	Vivian Cheruiyot	F	32	153	40	Kenya	Kenya	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's 5,000 metres	Gold
+32382	Taylor Ellis-Watson	F	23	183	65	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 400 metres relay	Gold
+34551	Allyson Felix	F	30	168	56	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 100 metres relay	Gold
+34551	Allyson Felix	F	30	168	56	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 400 metres relay	Gold
+36677	Phyllis Francis	F	24	180	72	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 400 metres relay	Gold
+38761	English Gardner	F	24	168	55	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 100 metres relay	Gold
+46542	Natasha Hastings	F	30	173	68	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 400 metres relay	Gold
+54135	Ruth Jebet	F	19	162	51	Bahrain	Brunei	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's 3,000 metres Steeplechase	Gold
+62116	Sara Kolak	F	21	170	74	Croatia	Croatia	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's Javelin Throw	Gold
+70582	Liu Hong	F	29	160	50	China	People's Republic of China	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 20 kilometres walk	Gold
+73221	Tianna Madison-Bartoletta	F	30	168	58	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 100 metres relay	Gold
+73221	Tianna Madison-Bartoletta	F	30	168	58	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's Long Jump	Gold
+77390	Francena McCorory	F	27	171	68	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 400 metres relay	Gold
+82900	Dalilah Muhammad	F	26	173	55	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's 400 metres Hurdles	Gold
+88474	Courtney Okolo	F	22	173	59	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 4 × 400 metres relay	Gold
+93475	Sandra Perković	F	26	183	85	Croatia	Croatia	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's Discus Throw	Gold
+102175	Brianna Rollins-McNeal	F	24	165	59	United States	United States of America	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's 100 metres Hurdles	Gold
+108532	Caster Semenya	F	25	178	70	South Africa	South Africa	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 800 metres	Gold
+116424	Jemima Sumgong	F	31	160	45	Kenya	Kenya	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2000 Summer Olympics – women's marathon	Gold
+119903	Elaine Thompson-Herah	F	24	167	57	Jamaica	Jamaica	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	Athletics Women's 100 metres	Gold
+119903	Elaine Thompson-Herah	F	24	167	57	Jamaica	Jamaica	2016 Summer	2016	Summer	Rio de Janeiro	Athletics	athletics at the 2016 Summer Olympics – women's 200 metres	Gold
