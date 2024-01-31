@@ -25,7 +25,8 @@ J'ai décidé de choisir ce jeu de données qui me semblait très complet sur le
 J'ai exploité une base de données exhaustive regroupant les données historiques des Jeux Olympiques modernes, englobant les éditions estivales et hivernales, depuis les Jeux d'Athènes en 1896 jusqu'à ceux de Rio en 2016. La qualité de ce jeu de données s'est avérée particulièrement robuste, nécessitant ainsi peu d'interventions substantielles lors du processus de validation, soulignant ainsi sa bonne organisation préalable.
 Jeu de données des jeux olympiques modernes : 
 
-![](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+![Lien WeTransfer](https://we.tl/t-RgDpOJDPlu)
+
 
 ## Les outils <a name="Outils"></a>
 
