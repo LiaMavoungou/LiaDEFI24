@@ -5,6 +5,8 @@
 
 ## Projet de datavisualisation des jeux olympiques modernes
 
+J'ai décidé de choisir ce jeu de données qui me semblait très complet sur les différents jeux olympiques qui se sont déroulés entre 1896 et 2016. Tous les athlètes participants sont inscrits ainsi que les différents pays. On remarque que suite à des changements politiques certains pays n'existent plus tel que l'Allemagne de l'EST. On remarque également que les débuts des jeux olympiques modernes montre que les équipes étaient différentes ce n'était pas des pays. Un même pays pouvait avoir plusieurs équipes pour une même discipline. Au fil du temps, les équipes se sont unifiées pour devenir des équipes nationales comme les jeux actuels. Grâce à ce jeu de données nous avons pu étudier quels étaient les athlètes ayant remportés telles médailles, les nations qui se distinguaient le mieux lors des jeux, les logos des villes organisatrices. 
+
 ![](https://www.mchampetier.com/sitephp/img_png/oeuvres_XL/2_Allen_Jones_affiche_fev201.jpg)
 
 
