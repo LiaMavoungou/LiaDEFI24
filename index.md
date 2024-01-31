@@ -16,8 +16,10 @@ Jeu de données des jeux olympiques modernes :
 
 ![](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
-## OpenRefine & WikiData
+## Les outils
 
+Pour ce travail, j'ai utilisé OpenRefine pour nettoyer et filtrer mes données. Pour une visualtion j'ai crée un excel. 
+Pour la création des visualisations j'ai utilisé datawrapper pour afficher une map, j'ai utilisé flourish pour effectuer un line chart dynamique et une cards pour afficher des logos. Enfin pour une dernière visualisation j'ai utilisé rawgraph pour faire un linechart qui lui n'est pas dynamique. 
 
 ##  Les Visualisations
 
