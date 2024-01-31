@@ -19,7 +19,8 @@ Jeu de données des jeux olympiques modernes :
 
 ##  Les Visualisations
 
-### Première visualisation
+### LES FEMMES MÉDAILLÉES D'OR EN ATHLÉTISME AUX JEUX DE RIO 2016 
+
 <iframe title="[ Femmes médaillées d'or en athlétisme Rio 2016] " aria-label="Map" id="datawrapper-chart-Ow3Ay" src="https://datawrapper.dwcdn.net/Ow3Ay/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="436" data-external="1"></iframe>
 
 Explications : 
@@ -29,7 +30,7 @@ Pour une visualisation plus détaillée et une communication efficace des résul
 
 Pour cette visualisation le choix d'une carte permetlocaliser la nationalité des athlètes permet d'afficher également leur âge et la sous-discipline à laquelle elles ont pris part.
 
-### Deuxième visualisation 
+### LES NATIONS LEADERS AUX JEUX OLYMPIQUES DE 2004 À 2016
 
 <iframe src='https://flo.uri.sh/visualisation/16565200/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 <div style='width:100%!;margin-top:4px!important;text-align:right!important;'>
@@ -39,7 +40,8 @@ Au cours de cette analyse, OpenRefine est utilisé pour affiner les données et 
 
 Par la suite, j'ai utilisé Flourish pour créer un line chart, permettant une visualisation claire de la progression ou de la régression des pays au cours de ces 12 années. Chaque année est représentée, fournissant des informations sur le nombre de médailles remportées par chaque pays. L'analyse du line chart a révélé une baisse de médailles en 2012 pour les États-Unis mais ils demeurent en tête, marquant une nette distinction. En contraste, la France maintient une position moins favorable par rapport aux autres nations, soulignant ainsi les variations dans les performances sportives au fil du temps. Cette approche visuelle a grandement contribué à la compréhension des tendances et des dynamiques des médailles olympiques pour ces pays spécifiques.
 
-### Troisième visualisation
+### LES MEDAILLES FRANÇAISES DE 1896 À 2016 :
+
 Visualisation des médailles remportées par la France de 1896 à 2016 incluant les jeux olympiques d'hiver et d'été. 
 
 ![Visu3Finale](https://github.com/LiaMavoungou/LiaDEFI24/assets/156092166/921bbaf8-986e-46f3-af40-2110dc85c9fc)
@@ -52,6 +54,14 @@ Suite à l'affinage de la selection 50 options spécifiques s'affichent. Ces opt
 Enfin, afin de structurer encore davantage les  données, j'ai utilisé l'opération SPLIT sur le fichier CSV. Cette opération a été réalisée avec l'intention de diviser les données textuelles en colonnes distinctes, en utilisant l'espace comme délimiteur. Cette étape a contribué à une organisation plus claire et à une meilleure interprétation des informations contenues, facilitant ainsi notre analyse ultérieure.
 J'ai fais le choix d'utiliser RawGraph pour faire ce line chart,pour organiser le graph j'ai utilisé l'année pour X Axis et le nombre de médailles pour Y Axis. Pour les lignes ainsi que pour les couleurs j'ai utilisé le type ( type de jeux : été ou hiver). 
 
+
+### LES LOGOS DES JEUX OLYMPIQUES DEPUIS 1996 À 2028 :
+
+<iframe src='https://flo.uri.sh/visualisation/16640261/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<div style='width:100%!;margin-top:4px!important;text-align:right!important;'>
+<a class='flourish-credit' href='https://public.flourish.studio/visualisation/16640261/?utm_source=embed&utm_campaign=visualisation/16640261' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+Pour cette quatrième visualisation, en amont j'ai crée un fichier excel dans lequel j'ai intégrer les villes organisatrices des jeux olympiques puis j'ai utilisé des données sur wikipédia pour trouver les images des logos et j'ai ajouté les trois derniers jeux après Rio 2016.
 
 ## Conclusion
 Conclusion générale du devoir...
